@@ -1,0 +1,4 @@
+dataset/*
+deep-learning-from-scratch/
+*.pkl
+venv
